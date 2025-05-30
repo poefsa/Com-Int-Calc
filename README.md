@@ -1,1 +1,1 @@
-# Com-Int-Calc
+#Simple Compound Interest Calculator 
